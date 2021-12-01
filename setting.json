@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://www.researchgate.net",
+  "target":"https://m.tribunnews.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"www.researchgate.net",
+      "target":"m.tribunnews.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
